@@ -75,9 +75,12 @@ header h1 {
   line-height: 1.2;
   color: #303030;
   letter-spacing: -1px;
-  text-align:Center;
+  text-align: center;
 }
-
+button {
+     text-align: center;
+     
+}
 header h2 {
   font-size: 24px;
   font-weight: normal;
